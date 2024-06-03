@@ -2,6 +2,9 @@
 
 這是一個簡易的會員登入系統，支持本地註冊和Google登入功能。
 
+## 過往commit紀錄
+為了將project統整在同一個github帳號底下，這個專案是從舊的帳號搬過來的，[commit紀錄見此](https://github.com/nana-yang-hy/Authentication_System)
+
 ## 目錄
 
 - [創建及更新](#創建及更新)
